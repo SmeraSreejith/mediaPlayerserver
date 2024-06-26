@@ -1,0 +1,176 @@
+{
+  "videos": [
+    {
+      "caption": "Mini Maharani Video Song",
+      "image": "https://static.moviecrow.com/marquee/premalu-gears-up-for-tamil-theatrical-release-heres-when/226996_thumb_665.jpg",
+      "url": "https://www.youtube.com/embed/6G75yTBzBUA",
+      "id": 1
+    },
+    {
+      "caption": "Kokkara Kokkarako - Video Song ",
+      "image": "https://i.ytimg.com/vi/U_mkoU3lcIQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/L1MLc8GvSLQ",
+      "id": 2
+    },
+    {
+      "caption": "Maari 2 - Rowdy Baby (Video Song)",
+      "image": "https://th.bing.com/th/id/OIP.VdJCE9U683yDcA8fOWLCNwAAAA?rs=1&pid=ImgDetMain",
+      "url": "https://www.youtube.com/embed/x6Q7c9RyMzk",
+      "id": 6
+    },
+    {
+      "caption": "Kurumbathi Chundari Nee Video Song ",
+      "image": "https://i.ytimg.com/vi/eTPtu-ExAK4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/eC86NUMstMY",
+      "id": 8
+    },
+    {
+      "caption": "Heeriye ",
+      "image": "https://i0.wp.com/urbanasian.com/wp-content/uploads/2023/07/ed67f181-4c81-4041-8856-849174501798.jpeg?w=1280&ssl=1",
+      "url": "https://www.youtube.com/embed/TZuQjv5Z6h8",
+      "id": 9
+    },
+    {
+      "caption": "Kurchi Madathapetti",
+      "image": "https://www.cinejosh.com/newsimg/newsmainimg/guntur-kaaram-kurchi-madathapetti-mahesh-sreeleela-mass-moves_b_3012230447.jpg",
+      "url": "https://www.youtube.com/embed/gh3FyLT7WVg",
+      "id": 10
+    },
+    {
+      "caption": "Bole Chudiyan | K3G ",
+      "image": "https://th.bing.com/th/id/OIP.r8yYfGokCtehGvQ74GA57QAAAA?rs=1&pid=ImgDetMain",
+      "url": "https://www.youtube.com/embed/b54oABKKV7E",
+      "id": 11
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys Promo Song",
+      "image": "https://i.ytimg.com/vi/9AizchSQURA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/9AizchSQURA",
+      "id": 12
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Hindi Songs",
+      "allVideo": [
+        {
+          "caption": "Bole Chudiyan | K3G ",
+          "image": "https://th.bing.com/th/id/OIP.r8yYfGokCtehGvQ74GA57QAAAA?rs=1&pid=ImgDetMain",
+          "url": "https://www.youtube.com/embed/b54oABKKV7E",
+          "id": 11
+        },
+        {
+          "caption": "Heeriye ",
+          "image": "https://i0.wp.com/urbanasian.com/wp-content/uploads/2023/07/ed67f181-4c81-4041-8856-849174501798.jpeg?w=1280&ssl=1",
+          "url": "https://www.youtube.com/embed/TZuQjv5Z6h8",
+          "id": 9
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Tamil Songs",
+      "allVideo": [
+        {
+          "caption": "Maari 2 - Rowdy Baby (Video Song)",
+          "image": "https://th.bing.com/th/id/OIP.VdJCE9U683yDcA8fOWLCNwAAAA?rs=1&pid=ImgDetMain",
+          "url": "https://www.youtube.com/embed/x6Q7c9RyMzk",
+          "id": 6
+        },
+        {
+          "caption": "Kokkara Kokkarako - Video Song ",
+          "image": "https://i.ytimg.com/vi/U_mkoU3lcIQ/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/L1MLc8GvSLQ",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "Malayalam Songs",
+      "allVideo": [
+        {
+          "caption": "Mini Maharani Video Song",
+          "image": "https://static.moviecrow.com/marquee/premalu-gears-up-for-tamil-theatrical-release-heres-when/226996_thumb_665.jpg",
+          "url": "https://www.youtube.com/embed/6G75yTBzBUA",
+          "id": 1
+        },
+        {
+          "caption": "Kurumbathi Chundari Nee Video Song ",
+          "image": "https://i.ytimg.com/vi/eTPtu-ExAK4/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/eC86NUMstMY",
+          "id": 8
+        },
+        {
+          "caption": "Kuthanthram - Manjummel Boys Promo Song",
+          "image": "https://i.ytimg.com/vi/9AizchSQURA/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/9AizchSQURA",
+          "id": 12
+        }
+      ],
+      "id": 3
+    },
+    {
+      "CategoryName": "Telugu Songs",
+      "allVideo": [
+        {
+          "caption": "Kurchi Madathapetti",
+          "image": "https://www.cinejosh.com/newsimg/newsmainimg/guntur-kaaram-kurchi-madathapetti-mahesh-sreeleela-mass-moves_b_3012230447.jpg",
+          "url": "https://www.youtube.com/embed/gh3FyLT7WVg",
+          "id": 10
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Mini Maharani Video Song",
+      "url": "https://www.youtube.com/embed/6G75yTBzBUA",
+      "timeStamp": "21/06/2024, 00:51:08",
+      "id": 1
+    },
+    {
+      "caption": "Heeriye ",
+      "url": "https://www.youtube.com/embed/TZuQjv5Z6h8",
+      "timeStamp": "21/06/2024, 09:04:37",
+      "id": 2
+    },
+    {
+      "caption": "Mini Maharani Video Song",
+      "url": "https://www.youtube.com/embed/6G75yTBzBUA",
+      "timeStamp": "24/06/2024, 09:42:09",
+      "id": 3
+    },
+    {
+      "caption": "Kurchi Madathapetti",
+      "url": "https://www.youtube.com/embed/gh3FyLT7WVg",
+      "timeStamp": "25/06/2024, 08:50:10",
+      "id": 5
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys Promo Song",
+      "url": "https://www.youtube.com/embed/9AizchSQURA",
+      "timeStamp": "25/06/2024, 08:51:01",
+      "id": 6
+    },
+    {
+      "caption": "Heeriye ",
+      "url": "https://www.youtube.com/embed/TZuQjv5Z6h8",
+      "timeStamp": "25/06/2024, 09:22:39",
+      "id": 7
+    },
+    {
+      "caption": "Maari 2 - Rowdy Baby (Video Song)",
+      "url": "https://www.youtube.com/embed/x6Q7c9RyMzk",
+      "timeStamp": "25/06/2024, 21:57:19",
+      "id": 8
+    },
+    {
+      "caption": "Kuthanthram - Manjummel Boys Promo Song",
+      "url": "https://www.youtube.com/embed/9AizchSQURA",
+      "timeStamp": "25/06/2024, 22:37:17",
+      "id": 9
+    }
+  ]
+}
